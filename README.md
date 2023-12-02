@@ -29,7 +29,7 @@ Speak clearly and wait for Python AI assistant to respond.
 
 ## Commands
 
-*Wikipedia Search: Say "Wikipedia" followed by the topic you want to search.
+* Wikipedia Search: Say "Wikipedia" followed by the topic you want to search.
 * Open YouTube: Say "Open YouTube" to open the YouTube website.
 * Open Google: Say "Open Google" to open the Google website.
 * Open Stack Overflow: Say "Open Stack Overflow" to open the Stack Overflow website.
@@ -44,4 +44,5 @@ Set your Gmail username and password in the sendEmail function to enable email s
 ## Note
 
 This is a basic AI assistant and can be extended with additional functionalities.
+
 Make sure your microphone is set up and working correctly for voice commands.
