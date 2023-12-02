@@ -25,7 +25,7 @@ def wishMe():
         speak("good Afternoon")
     else:
         speak("Good evening")
-    speak("I am a jarvis sir. Please tell me how may i help you ")
+    speak("I am ur Assistant sir. Please tell me how may i help you ")
 
 
 def takecommand():
@@ -87,4 +87,4 @@ if 1:
             sendEmail(to,content)
         except Exception as e:
             print(e)
-            speak("sorry my prem  bhai.I am not able to send this email")
+            speak("sorry Prem.I am not able to send this email")
